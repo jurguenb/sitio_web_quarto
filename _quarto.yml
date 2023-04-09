@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        file: index.qmd
+      - about.qmd 
+    
+    right:
+      - icon: twitter
+        aria-label: twitter
+        href: https://twitter.com/JurguenAndre
+        
+      - icon: github
+        aria-label: github
+        href: https://github.com/jurguenb
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
