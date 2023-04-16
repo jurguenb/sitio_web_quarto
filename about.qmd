@@ -2,8 +2,5 @@
 title: "Sobre mí"
 ---
 
-About this site
+Soy Jurguen Bermudez. Cientifico de datos costarricense. 
 
-```{r}
-1 + 1
-```

@@ -5,9 +5,10 @@ website:
   navbar:
     background: primary
     left:
-      - text: "Home"
+      - text: "Jurguen Bermudez"
         file: index.qmd
       - about.qmd 
+      - posts.qmd
     
     right:
       - icon: twitter
@@ -20,7 +21,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
