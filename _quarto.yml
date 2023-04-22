@@ -3,11 +3,10 @@ project:
 
 website:
   navbar:
-    background: primary
+    background: dark
     left:
-      - text: "Jurguen Bermudez"
-        file: index.qmd
-      - about.qmd 
+      - text: "Sobre mí" 
+        file: about.qmd 
       - posts.qmd
     
     right:
@@ -21,7 +20,7 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: cosmo
     css: styles.css
     toc: true
 
