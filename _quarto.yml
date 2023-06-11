@@ -6,7 +6,7 @@ website:
     background: dark
     left:
       - text: "Sobre mí" 
-        file: about.qmd 
+        file: index.qmd 
       - posts.qmd
     
     right:
