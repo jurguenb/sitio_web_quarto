@@ -2,4 +2,4 @@
 title: ""
 ---
 
-Soy Jurguen Bermudez. Cientifico de datos costarricense.
+Soy Jurguen Bermudez. Cientifico de datos costarricense....
