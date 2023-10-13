@@ -5,8 +5,8 @@ website:
   navbar:
     background: dark
     left:
-      - text: "Sobre mí" 
-        file: index.qmd 
+      - text: "Inicio" 
+        file: about.qmd 
       - posts.qmd
     
     right:
