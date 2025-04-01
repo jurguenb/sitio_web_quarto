@@ -7,6 +7,6 @@ about:
   image-shape: rectangle
 ---
 
-De profesión soy Arquitecto de Datos y Analítica. 
+De profesión soy Arquitecto de Datos y Analítica.
 Me apasiona el diseñar y crear productos de datos que hagan del mundo un lugar mejor. 
 
