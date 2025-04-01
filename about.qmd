@@ -1,5 +1,5 @@
 ---
-title: "Jurguen Andre Bermudez Mora"
+title: "Jurguen André Bermudez Mora"
 about:
   template: trestles
   image: profile.png
